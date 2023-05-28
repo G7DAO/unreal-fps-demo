@@ -1,0 +1,3 @@
+[submodule "Plugins/web3Unreal"]
+	path = Plugins/web3Unreal
+	url = https://github.com/G7DAO/web3.unreal.git
