@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "{41A37AAA-4846-2DC8-CF02-48897B9F8CBB}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -17,7 +17,8 @@
 		},
 		{
 			"Name": "web3Unreal",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e531ab2a55f64e9c93db49d242908626"
 		}
 	]
 }
